@@ -1,0 +1,16 @@
+# Dataset (too large for Git)
+wbc-bench-2026/
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
